@@ -1,7 +1,7 @@
 # OBS Broadcast Suite
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/OBS_Studio_logo.png" alt="OBS Broadcast Suite Logo"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/OBS_Studio_logo.png" alt="OBS Broadcast Suite Logo" width="300"/>
 </p>
 
 <p align="center">
